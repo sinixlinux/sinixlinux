@@ -18,9 +18,9 @@
 ⠀⠀⠀⠀⠀⠀⠀⢀⡴⢦⣿⣏⠀⣹⣿⠿⣿⣿⣿⡿⠟⠉⣸⣤⣼⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠘⠛⠋⠙⠿⠿⠿⠃⠀⠀⠀⠀⠀⠀⠘⠿⠽⠿
 ## Yo! :D
-### I'm `rasteroidd`, i love experimenting with ![linux](linux.org) and colors! i have used ![catppuccin](https://catppuccin.com) for some good time, but decided to create my own color scheme; i call it ![Frost](https://github.com/rasteroidd/frost).
+### I'm `theskepticpillow`, i love experimenting with ![linux](linux.org) and colors! i have used ![catppuccin](https://catppuccin.com) for some good time, but decided to create my own color scheme; i call it ![Frost](https://github.com/theskepticpillow/frost).
 _________________________________________________________________
 ## socials
->> Tiktok: https://www.tiktok.com/@rasteroid7
+>> Tiktok: https://www.tiktok.com/@theskepticpillow
 >> 
 >> YouTube: https://www.youtube.com/@rasteroidd
