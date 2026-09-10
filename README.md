@@ -1,25 +1,11 @@
- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡤⢴⢾⡙⢞⣷⢦⢤⠀⠀⠀⠀⠀
-⠀⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣟⣢⣜⡛⠘⣫⣄⣻⠀⠀⠀⠀⠀
-⢠⠶⣼⣇⣵⡤⢤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡺⠍⢫⣶⢰⣍⠋⢽⠀⠀⠀⠀⠀
-⣎⣴⣌⡛⢋⣴⣼⠀⠀⠀⠀⡖⢦⠀⠀⢀⣠⣤⣄⡀⠀⠀⠙⠛⠾⣡⢬⣻⠾⠚⠁⢀⡤⡀⠀
-⣠⠞⣩⣶⣮⡙⢦⠀⠀⠀⠀⠁⣪⣴⣾⡿⠟⠛⠻⢿⣷⣦⣄⡀⠀⠈⠉⠀⠀⠀⡖⠚⠀⠓⢢
-⠈⠚⣿⣇⣽⠙⠉⠀⣀⣤⣶⣿⠿⠛⠁⠀⠀⠀⠀⠀⠈⠙⠿⣿⣷⣦⣀⠀⠀⠀⠈⠹⣀⡟⠉
-⠀⠀⠀⠀⠀⢀⣴⣾⡿⠟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⢿⣿⣶⡄⠀⠀⠈⠀⠀
-⣠⣤⣤⡀⠀⢺⣿⠻⣷⣦⣔⠢⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⠿⢿⣿⠀⠀⠀⠀⠀
-⣿⣏⣿⣿⠀⢸⣿⠀⠀⠉⠛⠿⣶⣭⡓⠤⣀⠀⠀⠀⢀⣠⣴⡾⠟⠋⠁⡆⢸⣿⠀⢀⡤⣄⠀
-⠙⠛⠛⠃⠀⢸⣿⠀⠀⠀⠀⠀⠀⠙⠻⢷⣦⣭⣤⣶⠿⠋⠁⠀⠀⡄⠀⡇⢸⣿⠀⠘⠦⠞⠀
-⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀⠀⠀⠲⡌⣿⡏⠀⠠⠀⠀⠀⣁⠤⠒⡇⢸⣿⠀⣴⣦⡀⠀
-⠀⠀⣖⠙⡆⢸⣿⠀⠀⠀⠀⠀⠀⢀⠔⠁⡇⣿⡇⠀⠁⠠⡾⣴⡿⣿⣦⡄⢸⣿⠘⠧⠼⠇⠀
-⠀⠀⠈⠉⠁⣼⣿⢀⡠⠖⠀⠀⢀⠥⣄⠀⡇⣿⡇⡇⠀⡼⡽⢿⣖⣣⣿⡇⢸⣿⠀⡖⢲⡄⠀
-⠀⠀⠀⠀⠀⠸⣿⣦⣑⠢⢄⡀⠸⣀⣸⠀⡇⣿⡇⡇⢾⠞⢶⠎⣉⡿⢓⣡⣿⣿⠀⠉⠉⠁⠀
-⠀⠀⠀⠀⠀⠀⠈⠛⢿⣿⣦⣍⡓⠦⣀⠀⡇⣿⡇⡇⢀⡠⠔⣫⣵⣾⣿⣿⡿⠿⣿⣶⡄⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣹⣿⣿⣷⣬⣙⠃⣿⡇⢓⣭⣶⣿⣿⣛⢿⢻⣿⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢀⡴⢦⣿⣏⠀⣹⣿⠿⣿⣿⣿⡿⠟⠉⣸⣤⣼⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠘⠛⠋⠙⠿⠿⠿⠃⠀⠀⠀⠀⠀⠀⠘⠿⠽⠿
-## Yo! :D
-### I'm `theskepticpillow`, i love experimenting with ![linux](linux.org) and colors! i have used ![catppuccin](https://catppuccin.com) for some good time, but decided to create my own color scheme; i call it ![Frost](https://github.com/theskepticpillow/frost).
+-=-=-=-=-=-=-=-=-=-=-=-@tspillow!
 _________________________________________________________________
+hey! im pillow, a young dev making Linux things.
+
+I have already made ![Sinix,](https://github.com/theskepticpillow/sinix) my own arch-based distro.
+
+And ![frost,](https://github.com/theskepticpillow/frost) my own color scheme.
+
 ## socials
 >> Tiktok: https://www.tiktok.com/@theskepticpillow
 >> 
