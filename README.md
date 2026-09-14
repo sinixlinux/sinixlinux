@@ -1,5 +1,4 @@
 ## -=-=-=-=-=-=-=-=-=-=-=-@tspillow!
-_________________________________________________________________
 hey! im pillow, a young dev making Linux things.
 
 I'm making ![Sinix,](https://github.com/theskepticpillow/sinix) my own gentoo-based distro.
