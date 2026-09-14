@@ -2,7 +2,7 @@
 _________________________________________________________________
 hey! im pillow, a young dev making Linux things.
 
-I have already made ![Sinix,](https://github.com/theskepticpillow/sinix) my own arch-based distro.
+I'm making ![Sinix,](https://github.com/theskepticpillow/sinix) my own gentoo-based distro.
 
 And ![frost,](https://github.com/theskepticpillow/frost) my own color scheme.
 
